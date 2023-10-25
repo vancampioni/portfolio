@@ -5,6 +5,7 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet" />
+        <link rel="shortcut icon" href="/favicon/favicon.ico" />
       </Head>
       <body>
         <Main />
