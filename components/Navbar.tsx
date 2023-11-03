@@ -50,7 +50,7 @@ const Navbar = () => {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ duration: 0.1, delay: 0.2 }}
               >
-                About
+                Sobre
               </motion.li>
             </Link>
 
@@ -64,7 +64,7 @@ const Navbar = () => {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ duration: 0.1, delay: 0.3 }}
               >
-                Experience
+                Experiência
               </motion.li>
             </Link>
 
@@ -78,7 +78,7 @@ const Navbar = () => {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ duration: 0.1, delay: 0.4 }}
               >
-                Project
+                Projetos
               </motion.li>
             </Link>
 
@@ -92,7 +92,7 @@ const Navbar = () => {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ duration: 0.1, delay: 0.5 }}
               >
-                Contact
+                Contato
               </motion.li>
             </Link>
 
@@ -105,7 +105,7 @@ const Navbar = () => {
                 hover:text-white hover:bg-textPink duration-300"
                 
               >
-                Resume
+                Currículo
               </motion.button>
             </Link>
           </ul>
